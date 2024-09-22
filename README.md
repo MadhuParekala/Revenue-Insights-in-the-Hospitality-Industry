@@ -1,8 +1,11 @@
 # Revenue Insights in the Hospitality Industry
 
+
 Greetings, everyone!
 
 I've successfully completed a fascinating project in the hospitality domain, and I'm excited to introduce you to "Revenue Insights in the Hospitality Industry."
+
+[Link to Interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTczODRlNDItNzAyOS00ZTdkLWJjZWYtNDIwNGMwZGIwODk2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 𝗪𝗵𝗮𝘁 𝗜'𝘃𝗲 𝗟𝗲𝗮𝗿𝗻𝗲𝗱: This journey has allowed me to delve into the unique challenges of the hospitality industry and employ my data analytics skills to address real-world problems.
 
